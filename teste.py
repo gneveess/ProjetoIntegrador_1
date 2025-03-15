@@ -7,3 +7,4 @@ print("e agora sua idade: ")
 idadecliente = input()
 
 print(nomecliente, idadecliente)
+print ("penis")
